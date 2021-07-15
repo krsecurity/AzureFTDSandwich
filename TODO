@@ -1,0 +1,8 @@
+- Check if possible to add FMC registration info 
+- Add public IP's on the management NIC's for initial configuration
+- Incorporate VNET creation 
+- Incorporate NSG creation
+- Specific NSG's?
+- Add FMC creation?
+- Use modules?
+- Use CSV input file?
